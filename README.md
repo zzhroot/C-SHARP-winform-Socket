@@ -1,2 +1,2 @@
-# C-winform-Socket-
+# C#winform-Socket-
 Socketstu
